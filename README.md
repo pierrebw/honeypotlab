@@ -15,7 +15,7 @@ I set up a vulnerable virtual machine as a honeypot, exposed it to the internet,
 
 <p align="center">
 Create a virtual machine with minimal security to attract attackers.<br/>
-<img src="https://github.com/pierrebw/lab/blob/main/Screenshot%202024-09-09%20at%2016.19.47.png?raw=true" height="80%" width="80%"/>
+<img src="https://github.com/pierrebw/lab/blob/main/Screenshot%202024-09-09%20at%2016.19.47.png" height="80%" width="80%"/>
 <br />
 <br />
 Remove all firewall rules and configurations on the VM to make it more vulnerable to attacks.<br/>
