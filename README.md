@@ -1,5 +1,5 @@
 <h1>Building a Honeypot Lab with Microsoft Sentinel for Live Attack Monitoring</h1>
-<img src="https://i.imgur.com/A9OlwiZ.png" height="80%" width="80%"/>
+<center><img src="https://i.imgur.com/A9OlwiZ.png" height="80%" width="80%"/></center>
 
 <h2>Description</h2>
 I set up a vulnerable virtual machine as a honeypot, exposed it to the internet, and used Azure Log Analytics to track failed login attempts. Then, I analyzed the data in Azure Sentinel and created a heatmap showing the attackers' locations on a world map.<br />
